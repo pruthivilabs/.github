@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/pruthivilabs.png" alt="Pruthivi Labs logo" width="120" height="120" style="border-radius: 24px;" />
-
-# Pruthivi Labs
-
-**Intentional design engineering for scaling companies.**
-
 <a href="https://showcase.pruthivithejan.me">
   <img src="https://showcase.pruthivithejan.me/og-image.png" alt="Pruthivi Labs: intentional design engineering for scaling companies, with brand and design projects displayed on a globe." width="100%" />
 </a>
@@ -24,10 +18,10 @@ Pruthivi Labs is a design and development studio creating intentional, user-cent
 
 | | |
 |---|---|
-| 🎨 **Brand design** | 🖥️ **Web design** |
-| ⚙️ **Web development** | 📱 **Mobile design** |
-| 🚀 **Mobile development** | 📣 **Digital marketing** |
-| 🧩 **Product design** | 🔍 **UX auditing** |
+| **Brand design** | **Web design** |
+| **Web development** | **Mobile design** |
+| **Mobile development** | **Digital marketing** |
+| **Product design** | **UX auditing** |
 
 ## Selected work
 
